@@ -1,0 +1,1376 @@
+{
+	"countries": [
+		{
+			"tag": "The_Czech_Republic",
+			"name": "The Czech Republic",
+			"flag": "https://cdn.countryflags.com/thumbs/czech-republic/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/czech-republic/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/czech-republic/flag-round-250.png"
+		},
+		{
+			"tag": "Egypt",
+			"name": "Egypt",
+			"flag": "https://cdn.countryflags.com/thumbs/egypt/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/egypt/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/egypt/flag-round-250.png"
+		},
+		{
+			"tag": "Belarus",
+			"name": "Belarus",
+			"flag": "https://cdn.countryflags.com/thumbs/belarus/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/belarus/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/belarus/flag-round-250.png"
+		},
+		{
+			"tag": "Tajikistan",
+			"name": "Tajikistan",
+			"flag": "https://cdn.countryflags.com/thumbs/tajikistan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/tajikistan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/tajikistan/flag-round-250.png"
+		},
+		{
+			"tag": "Chad",
+			"name": "Chad",
+			"flag": "https://cdn.countryflags.com/thumbs/chad/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/chad/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/chad/flag-round-250.png"
+		},
+		{
+			"tag": "Colombia",
+			"name": "Colombia",
+			"flag": "https://cdn.countryflags.com/thumbs/colombia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/colombia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/colombia/flag-round-250.png"
+		},
+		{
+			"tag": "South_Korea",
+			"name": "South Korea",
+			"flag": "https://cdn.countryflags.com/thumbs/south-korea/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/south-korea/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/south-korea/flag-round-250.png"
+		},
+		{
+			"tag": "Saint_Vincent_and_the_Grenadines",
+			"name": "Saint Vincent and the Grenadines",
+			"flag": "https://cdn.countryflags.com/thumbs/saint-vincent-and-the-grenadines/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/saint-vincent-and-the-grenadines/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/saint-vincent-and-the-grenadines/flag-round-250.png"
+		},
+		{
+			"tag": "Bhutan",
+			"name": "Bhutan",
+			"flag": "https://cdn.countryflags.com/thumbs/bhutan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bhutan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bhutan/flag-round-250.png"
+		},
+		{
+			"tag": "Morocco",
+			"name": "Morocco",
+			"flag": "https://cdn.countryflags.com/thumbs/morocco/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/morocco/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png"
+		},
+		{
+			"tag": "Azerbaijan",
+			"name": "Azerbaijan",
+			"flag": "https://cdn.countryflags.com/thumbs/azerbaijan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/azerbaijan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png"
+		},
+		{
+			"tag": "Grenada",
+			"name": "Grenada",
+			"flag": "https://cdn.countryflags.com/thumbs/grenada/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/grenada/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/grenada/flag-round-250.png"
+		},
+		{
+			"tag": "Mongolia",
+			"name": "Mongolia",
+			"flag": "https://cdn.countryflags.com/thumbs/mongolia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/mongolia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/mongolia/flag-round-250.png"
+		},
+		{
+			"tag": "Brazil",
+			"name": "Brazil",
+			"flag": "https://cdn.countryflags.com/thumbs/brazil/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/brazil/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png"
+		},
+		{
+			"tag": "Syria",
+			"name": "Syria",
+			"flag": "https://cdn.countryflags.com/thumbs/syria/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/syria/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/syria/flag-round-250.png"
+		},
+		{
+			"tag": "Zimbabwe",
+			"name": "Zimbabwe",
+			"flag": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-round-250.png"
+		},
+		{
+			"tag": "Iran",
+			"name": "Iran",
+			"flag": "https://cdn.countryflags.com/thumbs/iran/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/iran/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/iran/flag-round-250.png"
+		},
+		{
+			"tag": "The_United_Arab_Emirates",
+			"name": "The United Arab Emirates",
+			"flag": "https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png"
+		},
+		{
+			"tag": "Honduras",
+			"name": "Honduras",
+			"flag": "https://cdn.countryflags.com/thumbs/honduras/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/honduras/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/honduras/flag-round-250.png"
+		},
+		{
+			"tag": "The_Bahamas",
+			"name": "The Bahamas",
+			"flag": "https://cdn.countryflags.com/thumbs/bahamas/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bahamas/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bahamas/flag-round-250.png"
+		},
+		{
+			"tag": "Uganda",
+			"name": "Uganda",
+			"flag": "https://cdn.countryflags.com/thumbs/uganda/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/uganda/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/uganda/flag-round-250.png"
+		},
+		{
+			"tag": "Japan",
+			"name": "Japan",
+			"flag": "https://cdn.countryflags.com/thumbs/japan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/japan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/japan/flag-round-250.png"
+		},
+		{
+			"tag": "Algeria",
+			"name": "Algeria",
+			"flag": "https://cdn.countryflags.com/thumbs/algeria/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/algeria/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png"
+		},
+		{
+			"tag": "Moldova",
+			"name": "Moldova",
+			"flag": "https://cdn.countryflags.com/thumbs/moldova/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/moldova/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/moldova/flag-round-250.png"
+		},
+		{
+			"tag": "Laos",
+			"name": "Laos",
+			"flag": "https://cdn.countryflags.com/thumbs/laos/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/laos/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/laos/flag-round-250.png"
+		},
+		{
+			"tag": "Serbia",
+			"name": "Serbia",
+			"flag": "https://cdn.countryflags.com/thumbs/serbia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/serbia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/serbia/flag-round-250.png"
+		},
+		{
+			"tag": "Albania",
+			"name": "Albania",
+			"flag": "https://cdn.countryflags.com/thumbs/albania/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/albania/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/albania/flag-round-250.png"
+		},
+		{
+			"tag": "Denmark",
+			"name": "Denmark",
+			"flag": "https://cdn.countryflags.com/thumbs/denmark/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/denmark/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/denmark/flag-round-250.png"
+		},
+		{
+			"tag": "Mauritania",
+			"name": "Mauritania",
+			"flag": "https://cdn.countryflags.com/thumbs/mauritania/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/mauritania/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png"
+		},
+		{
+			"tag": "The_Seychelles",
+			"name": "The Seychelles",
+			"flag": "https://cdn.countryflags.com/thumbs/seychelles/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/seychelles/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/seychelles/flag-round-250.png"
+		},
+		{
+			"tag": "Montenegro",
+			"name": "Montenegro",
+			"flag": "https://cdn.countryflags.com/thumbs/montenegro/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/montenegro/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/montenegro/flag-round-250.png"
+		},
+		{
+			"tag": "The_United_States",
+			"name": "The United States",
+			"flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png"
+		},
+		{
+			"tag": "Sudan",
+			"name": "Sudan",
+			"flag": "https://cdn.countryflags.com/thumbs/sudan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/sudan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/sudan/flag-round-250.png"
+		},
+		{
+			"tag": "El_Salvador",
+			"name": "El Salvador",
+			"flag": "https://cdn.countryflags.com/thumbs/el-salvador/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/el-salvador/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/el-salvador/flag-round-250.png"
+		},
+		{
+			"tag": "Croatia",
+			"name": "Croatia",
+			"flag": "https://cdn.countryflags.com/thumbs/croatia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/croatia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/croatia/flag-round-250.png"
+		},
+		{
+			"tag": "Belize",
+			"name": "Belize",
+			"flag": "https://cdn.countryflags.com/thumbs/belize/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/belize/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/belize/flag-round-250.png"
+		},
+		{
+			"tag": "The_Marshall_Islands",
+			"name": "The Marshall Islands",
+			"flag": "https://cdn.countryflags.com/thumbs/marshall-islands/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/marshall-islands/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/marshall-islands/flag-round-250.png"
+		},
+		{
+			"tag": "Cameroon",
+			"name": "Cameroon",
+			"flag": "https://cdn.countryflags.com/thumbs/cameroon/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/cameroon/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/cameroon/flag-round-250.png"
+		},
+		{
+			"tag": "Lithuania",
+			"name": "Lithuania",
+			"flag": "https://cdn.countryflags.com/thumbs/lithuania/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/lithuania/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/lithuania/flag-round-250.png"
+		},
+		{
+			"tag": "Tuvalu",
+			"name": "Tuvalu",
+			"flag": "https://cdn.countryflags.com/thumbs/tuvalu/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/tuvalu/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/tuvalu/flag-round-250.png"
+		},
+		{
+			"tag": "Lebanon",
+			"name": "Lebanon",
+			"flag": "https://cdn.countryflags.com/thumbs/lebanon/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/lebanon/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/lebanon/flag-round-250.png"
+		},
+		{
+			"tag": "Cape_Verde",
+			"name": "Cape Verde",
+			"flag": "https://cdn.countryflags.com/thumbs/cape-verde/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/cape-verde/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/cape-verde/flag-round-250.png"
+		},
+		{
+			"tag": "Italy",
+			"name": "Italy",
+			"flag": "https://cdn.countryflags.com/thumbs/italy/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/italy/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/italy/flag-round-250.png"
+		},
+		{
+			"tag": "The_Solomon_Islands",
+			"name": "The Solomon Islands",
+			"flag": "https://cdn.countryflags.com/thumbs/solomon-islands/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/solomon-islands/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/solomon-islands/flag-round-250.png"
+		},
+		{
+			"tag": "Djibouti",
+			"name": "Djibouti",
+			"flag": "https://cdn.countryflags.com/thumbs/djibouti/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/djibouti/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/djibouti/flag-round-250.png"
+		},
+		{
+			"tag": "Mali",
+			"name": "Mali",
+			"flag": "https://cdn.countryflags.com/thumbs/mali/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/mali/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/mali/flag-round-250.png"
+		},
+		{
+			"tag": "The_Netherlands",
+			"name": "The Netherlands",
+			"flag": "https://cdn.countryflags.com/thumbs/netherlands/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/netherlands/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png"
+		},
+		{
+			"tag": "East_Timor",
+			"name": "East Timor",
+			"flag": "https://cdn.countryflags.com/thumbs/east-timor/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/east-timor/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/east-timor/flag-round-250.png"
+		},
+		{
+			"tag": "Armenia",
+			"name": "Armenia",
+			"flag": "https://cdn.countryflags.com/thumbs/armenia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/armenia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/armenia/flag-round-250.png"
+		},
+		{
+			"tag": "Mexico",
+			"name": "Mexico",
+			"flag": "https://cdn.countryflags.com/thumbs/mexico/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/mexico/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/mexico/flag-round-250.png"
+		},
+		{
+			"tag": "Canada",
+			"name": "Canada",
+			"flag": "https://cdn.countryflags.com/thumbs/canada/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/canada/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/canada/flag-round-250.png"
+		},
+		{
+			"tag": "Cyprus",
+			"name": "Cyprus",
+			"flag": "https://cdn.countryflags.com/thumbs/cyprus/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/cyprus/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/cyprus/flag-round-250.png"
+		},
+		{
+			"tag": "Kazakhstan",
+			"name": "Kazakhstan",
+			"flag": "https://cdn.countryflags.com/thumbs/kazakhstan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/kazakhstan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/kazakhstan/flag-round-250.png"
+		},
+		{
+			"tag": "Bolivia",
+			"name": "Bolivia",
+			"flag": "https://cdn.countryflags.com/thumbs/bolivia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bolivia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bolivia/flag-round-250.png"
+		},
+		{
+			"tag": "Finland",
+			"name": "Finland",
+			"flag": "https://cdn.countryflags.com/thumbs/finland/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/finland/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/finland/flag-round-250.png"
+		},
+		{
+			"tag": "Lesotho",
+			"name": "Lesotho",
+			"flag": "https://cdn.countryflags.com/thumbs/lesotho/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/lesotho/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/lesotho/flag-round-250.png"
+		},
+		{
+			"tag": "Chile",
+			"name": "Chile",
+			"flag": "https://cdn.countryflags.com/thumbs/chile/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/chile/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/chile/flag-round-250.png"
+		},
+		{
+			"tag": "Macedonia",
+			"name": "Macedonia",
+			"flag": "https://cdn.countryflags.com/thumbs/macedonia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/macedonia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/macedonia/flag-round-250.png"
+		},
+		{
+			"tag": "Estonia",
+			"name": "Estonia",
+			"flag": "https://cdn.countryflags.com/thumbs/estonia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/estonia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/estonia/flag-round-250.png"
+		},
+		{
+			"tag": "Liberia",
+			"name": "Liberia",
+			"flag": "https://cdn.countryflags.com/thumbs/liberia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/liberia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/liberia/flag-round-250.png"
+		},
+		{
+			"tag": "Australia",
+			"name": "Australia",
+			"flag": "https://cdn.countryflags.com/thumbs/australia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/australia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/australia/flag-round-250.png"
+		},
+		{
+			"tag": "Nicaragua",
+			"name": "Nicaragua",
+			"flag": "https://cdn.countryflags.com/thumbs/nicaragua/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/nicaragua/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/nicaragua/flag-round-250.png"
+		},
+		{
+			"tag": "Palau",
+			"name": "Palau",
+			"flag": "https://cdn.countryflags.com/thumbs/palau/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/palau/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/palau/flag-round-250.png"
+		},
+		{
+			"tag": "San_Marino",
+			"name": "San Marino",
+			"flag": "https://cdn.countryflags.com/thumbs/san-marino/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/san-marino/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/san-marino/flag-round-250.png"
+		},
+		{
+			"tag": "Turkmenistan",
+			"name": "Turkmenistan",
+			"flag": "https://cdn.countryflags.com/thumbs/turkmenistan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/turkmenistan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/turkmenistan/flag-round-250.png"
+		},
+		{
+			"tag": "Mauritius",
+			"name": "Mauritius",
+			"flag": "https://cdn.countryflags.com/thumbs/mauritius/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/mauritius/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/mauritius/flag-round-250.png"
+		},
+		{
+			"tag": "Angola",
+			"name": "Angola",
+			"flag": "https://cdn.countryflags.com/thumbs/angola/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/angola/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/angola/flag-round-250.png"
+		},
+		{
+			"tag": "Singapore",
+			"name": "Singapore",
+			"flag": "https://cdn.countryflags.com/thumbs/singapore/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/singapore/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/singapore/flag-round-250.png"
+		},
+		{
+			"tag": "Slovenia",
+			"name": "Slovenia",
+			"flag": "https://cdn.countryflags.com/thumbs/slovenia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/slovenia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/slovenia/flag-round-250.png"
+		},
+		{
+			"tag": "Ireland",
+			"name": "Ireland",
+			"flag": "https://cdn.countryflags.com/thumbs/ireland/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/ireland/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/ireland/flag-round-250.png"
+		},
+		{
+			"tag": "Botswana",
+			"name": "Botswana",
+			"flag": "https://cdn.countryflags.com/thumbs/botswana/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/botswana/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/botswana/flag-round-250.png"
+		},
+		{
+			"tag": "Jordan",
+			"name": "Jordan",
+			"flag": "https://cdn.countryflags.com/thumbs/jordan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/jordan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/jordan/flag-round-250.png"
+		},
+		{
+			"tag": "Jamaica",
+			"name": "Jamaica",
+			"flag": "https://cdn.countryflags.com/thumbs/jamaica/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/jamaica/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/jamaica/flag-round-250.png"
+		},
+		{
+			"tag": "Libya",
+			"name": "Libya",
+			"flag": "https://cdn.countryflags.com/thumbs/libya/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/libya/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/libya/flag-round-250.png"
+		},
+		{
+			"tag": "Oman",
+			"name": "Oman",
+			"flag": "https://cdn.countryflags.com/thumbs/oman/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/oman/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/oman/flag-round-250.png"
+		},
+		{
+			"tag": "Niger",
+			"name": "Niger",
+			"flag": "https://cdn.countryflags.com/thumbs/niger/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/niger/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/niger/flag-round-250.png"
+		},
+		{
+			"tag": "Suriname",
+			"name": "Suriname",
+			"flag": "https://cdn.countryflags.com/thumbs/suriname/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/suriname/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/suriname/flag-round-250.png"
+		},
+		{
+			"tag": "Rwanda",
+			"name": "Rwanda",
+			"flag": "https://cdn.countryflags.com/thumbs/rwanda/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/rwanda/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/rwanda/flag-round-250.png"
+		},
+		{
+			"tag": "Vietnam",
+			"name": "Vietnam",
+			"flag": "https://cdn.countryflags.com/thumbs/vietnam/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/vietnam/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/vietnam/flag-round-250.png"
+		},
+		{
+			"tag": "The_Philippines",
+			"name": "The Philippines",
+			"flag": "https://cdn.countryflags.com/thumbs/philippines/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/philippines/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/philippines/flag-round-250.png"
+		},
+		{
+			"tag": "Portugal",
+			"name": "Portugal",
+			"flag": "https://cdn.countryflags.com/thumbs/portugal/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/portugal/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/portugal/flag-round-250.png"
+		},
+		{
+			"tag": "Tunisia",
+			"name": "Tunisia",
+			"flag": "https://cdn.countryflags.com/thumbs/tunisia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/tunisia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/tunisia/flag-round-250.png"
+		},
+		{
+			"tag": "Luxembourg",
+			"name": "Luxembourg",
+			"flag": "https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/luxembourg/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/luxembourg/flag-round-250.png"
+		},
+		{
+			"tag": "Georgia",
+			"name": "Georgia",
+			"flag": "https://cdn.countryflags.com/thumbs/georgia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/georgia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/georgia/flag-round-250.png"
+		},
+		{
+			"tag": "Madagascar",
+			"name": "Madagascar",
+			"flag": "https://cdn.countryflags.com/thumbs/madagascar/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/madagascar/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/madagascar/flag-round-250.png"
+		},
+		{
+			"tag": "Spain",
+			"name": "Spain",
+			"flag": "https://cdn.countryflags.com/thumbs/spain/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/spain/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/spain/flag-round-250.png"
+		},
+		{
+			"tag": "Switzerland",
+			"name": "Switzerland",
+			"flag": "https://cdn.countryflags.com/thumbs/switzerland/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/switzerland/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/switzerland/flag-round-250.png"
+		},
+		{
+			"tag": "Afghanistan",
+			"name": "Afghanistan",
+			"flag": "https://cdn.countryflags.com/thumbs/afghanistan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/afghanistan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/afghanistan/flag-round-250.png"
+		},
+		{
+			"tag": "Tanzania",
+			"name": "Tanzania",
+			"flag": "https://cdn.countryflags.com/thumbs/tanzania/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/tanzania/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/tanzania/flag-round-250.png"
+		},
+		{
+			"tag": "Russia",
+			"name": "Russia",
+			"flag": "https://cdn.countryflags.com/thumbs/russia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/russia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/russia/flag-round-250.png"
+		},
+		{
+			"tag": "Tonga",
+			"name": "Tonga",
+			"flag": "https://cdn.countryflags.com/thumbs/tonga/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/tonga/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/tonga/flag-round-250.png"
+		},
+		{
+			"tag": "Togo",
+			"name": "Togo",
+			"flag": "https://cdn.countryflags.com/thumbs/togo/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/togo/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/togo/flag-round-250.png"
+		},
+		{
+			"tag": "Turkey",
+			"name": "Turkey",
+			"flag": "https://cdn.countryflags.com/thumbs/turkey/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/turkey/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/turkey/flag-round-250.png"
+		},
+		{
+			"tag": "Poland",
+			"name": "Poland",
+			"flag": "https://cdn.countryflags.com/thumbs/poland/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/poland/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/poland/flag-round-250.png"
+		},
+		{
+			"tag": "Trinidad_and_Tobago",
+			"name": "Trinidad and Tobago",
+			"flag": "https://cdn.countryflags.com/thumbs/trinidad-and-tobago/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/trinidad-and-tobago/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/trinidad-and-tobago/flag-round-250.png"
+		},
+		{
+			"tag": "Comoros",
+			"name": "Comoros",
+			"flag": "https://cdn.countryflags.com/thumbs/comoros/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/comoros/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/comoros/flag-round-250.png"
+		},
+		{
+			"tag": "Guyana",
+			"name": "Guyana",
+			"flag": "https://cdn.countryflags.com/thumbs/guyana/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/guyana/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/guyana/flag-round-250.png"
+		},
+		{
+			"tag": "Bosnia_and_Herzegovina",
+			"name": "Bosnia and Herzegovina",
+			"flag": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png"
+		},
+		{
+			"tag": "Niue",
+			"name": "Niue",
+			"flag": "https://cdn.countryflags.com/thumbs/niue/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/niue/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/niue/flag-round-250.png"
+		},
+		{
+			"tag": "Sri_Lanka",
+			"name": "Sri Lanka",
+			"flag": "https://cdn.countryflags.com/thumbs/sri-lanka/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/sri-lanka/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/sri-lanka/flag-round-250.png"
+		},
+		{
+			"tag": "The_Gambia",
+			"name": "The Gambia",
+			"flag": "https://cdn.countryflags.com/thumbs/gambia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/gambia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/gambia/flag-round-250.png"
+		},
+		{
+			"tag": "Gabon",
+			"name": "Gabon",
+			"flag": "https://cdn.countryflags.com/thumbs/gabon/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/gabon/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/gabon/flag-round-250.png"
+		},
+		{
+			"tag": "Yemen",
+			"name": "Yemen",
+			"flag": "https://cdn.countryflags.com/thumbs/yemen/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/yemen/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/yemen/flag-round-250.png"
+		},
+		{
+			"tag": "Venezuela",
+			"name": "Venezuela",
+			"flag": "https://cdn.countryflags.com/thumbs/venezuela/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/venezuela/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/venezuela/flag-round-250.png"
+		},
+		{
+			"tag": "Bangladesh",
+			"name": "Bangladesh",
+			"flag": "https://cdn.countryflags.com/thumbs/bangladesh/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bangladesh/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bangladesh/flag-round-250.png"
+		},
+		{
+			"tag": "Eritrea",
+			"name": "Eritrea",
+			"flag": "https://cdn.countryflags.com/thumbs/eritrea/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/eritrea/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/eritrea/flag-round-250.png"
+		},
+		{
+			"tag": "South_Africa",
+			"name": "South Africa",
+			"flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/south-africa/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png"
+		},
+		{
+			"tag": "Iraq",
+			"name": "Iraq",
+			"flag": "https://cdn.countryflags.com/thumbs/iraq/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/iraq/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png"
+		},
+		{
+			"tag": "Ecuador",
+			"name": "Ecuador",
+			"flag": "https://cdn.countryflags.com/thumbs/ecuador/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/ecuador/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/ecuador/flag-round-250.png"
+		},
+		{
+			"tag": "Hungary",
+			"name": "Hungary",
+			"flag": "https://cdn.countryflags.com/thumbs/hungary/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/hungary/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/hungary/flag-round-250.png"
+		},
+		{
+			"tag": "Malawi",
+			"name": "Malawi",
+			"flag": "https://cdn.countryflags.com/thumbs/malawi/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/malawi/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/malawi/flag-round-250.png"
+		},
+		{
+			"tag": "Senegal",
+			"name": "Senegal",
+			"flag": "https://cdn.countryflags.com/thumbs/senegal/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/senegal/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/senegal/flag-round-250.png"
+		},
+		{
+			"tag": "Zambia",
+			"name": "Zambia",
+			"flag": "https://cdn.countryflags.com/thumbs/zambia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/zambia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/zambia/flag-round-250.png"
+		},
+		{
+			"tag": "Barbados",
+			"name": "Barbados",
+			"flag": "https://cdn.countryflags.com/thumbs/barbados/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/barbados/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/barbados/flag-round-250.png"
+		},
+		{
+			"tag": "India",
+			"name": "India",
+			"flag": "https://cdn.countryflags.com/thumbs/india/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/india/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/india/flag-round-250.png"
+		},
+		{
+			"tag": "Vatican_City",
+			"name": "Vatican City",
+			"flag": "https://cdn.countryflags.com/thumbs/vatican-city/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/vatican-city/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/vatican-city/flag-round-250.png"
+		},
+		{
+			"tag": "Romania",
+			"name": "Romania",
+			"flag": "https://cdn.countryflags.com/thumbs/romania/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/romania/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/romania/flag-round-250.png"
+		},
+		{
+			"tag": "Belgium",
+			"name": "Belgium",
+			"flag": "https://cdn.countryflags.com/thumbs/belgium/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/belgium/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/belgium/flag-round-250.png"
+		},
+		{
+			"tag": "Saudi_Arabia",
+			"name": "Saudi Arabia",
+			"flag": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png"
+		},
+		{
+			"tag": "New_Zealand",
+			"name": "New Zealand",
+			"flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/new-zealand/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png"
+		},
+		{
+			"tag": "Kuwait",
+			"name": "Kuwait",
+			"flag": "https://cdn.countryflags.com/thumbs/kuwait/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/kuwait/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/kuwait/flag-round-250.png"
+		},
+		{
+			"tag": "Burkina_Faso",
+			"name": "Burkina Faso",
+			"flag": "https://cdn.countryflags.com/thumbs/burkina-faso/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/burkina-faso/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/burkina-faso/flag-round-250.png"
+		},
+		{
+			"tag": "North_Korea",
+			"name": "North Korea",
+			"flag": "https://cdn.countryflags.com/thumbs/north-korea/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/north-korea/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/north-korea/flag-round-250.png"
+		},
+		{
+			"tag": "Equatorial_Guinea",
+			"name": "Equatorial Guinea",
+			"flag": "https://cdn.countryflags.com/thumbs/equatorial-guinea/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/equatorial-guinea/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/equatorial-guinea/flag-round-250.png"
+		},
+		{
+			"tag": "South_Sudan",
+			"name": "South Sudan",
+			"flag": "https://cdn.countryflags.com/thumbs/south-sudan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/south-sudan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/south-sudan/flag-round-250.png"
+		},
+		{
+			"tag": "Kosovo",
+			"name": "Kosovo",
+			"flag": "https://cdn.countryflags.com/thumbs/kosovo/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/kosovo/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/kosovo/flag-round-250.png"
+		},
+		{
+			"tag": "China",
+			"name": "China",
+			"flag": "https://cdn.countryflags.com/thumbs/china/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/china/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/china/flag-round-250.png"
+		},
+		{
+			"tag": "The_Maldives",
+			"name": "The Maldives",
+			"flag": "https://cdn.countryflags.com/thumbs/maldives/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/maldives/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/maldives/flag-round-250.png"
+		},
+		{
+			"tag": "Uruguay",
+			"name": "Uruguay",
+			"flag": "https://cdn.countryflags.com/thumbs/uruguay/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/uruguay/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/uruguay/flag-round-250.png"
+		},
+		{
+			"tag": "Burundi",
+			"name": "Burundi",
+			"flag": "https://cdn.countryflags.com/thumbs/burundi/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/burundi/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/burundi/flag-round-250.png"
+		},
+		{
+			"tag": "Saint_Kitts_and_Nevis",
+			"name": "Saint Kitts and Nevis",
+			"flag": "https://cdn.countryflags.com/thumbs/saint-kitts-and-nevis/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/saint-kitts-and-nevis/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/saint-kitts-and-nevis/flag-round-250.png"
+		},
+		{
+			"tag": "The_Dominican_Republic",
+			"name": "The Dominican Republic",
+			"flag": "https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/dominican-republic/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/dominican-republic/flag-round-250.png"
+		},
+		{
+			"tag": "Uzbekistan",
+			"name": "Uzbekistan",
+			"flag": "https://cdn.countryflags.com/thumbs/uzbekistan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/uzbekistan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/uzbekistan/flag-round-250.png"
+		},
+		{
+			"tag": "Malta",
+			"name": "Malta",
+			"flag": "https://cdn.countryflags.com/thumbs/malta/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/malta/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/malta/flag-round-250.png"
+		},
+		{
+			"tag": "Panama",
+			"name": "Panama",
+			"flag": "https://cdn.countryflags.com/thumbs/panama/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/panama/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/panama/flag-round-250.png"
+		},
+		{
+			"tag": "Paraguay",
+			"name": "Paraguay",
+			"flag": "https://cdn.countryflags.com/thumbs/paraguay/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/paraguay/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/paraguay/flag-round-250.png"
+		},
+		{
+			"tag": "Saint_Lucia",
+			"name": "Saint Lucia",
+			"flag": "https://cdn.countryflags.com/thumbs/saint-lucia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/saint-lucia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/saint-lucia/flag-round-250.png"
+		},
+		{
+			"tag": "Papua_New_Guinea",
+			"name": "Papua New Guinea",
+			"flag": "https://cdn.countryflags.com/thumbs/papua-new-guinea/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/papua-new-guinea/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/papua-new-guinea/flag-round-250.png"
+		},
+		{
+			"tag": "Namibia",
+			"name": "Namibia",
+			"flag": "https://cdn.countryflags.com/thumbs/namibia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/namibia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/namibia/flag-round-250.png"
+		},
+		{
+			"tag": "The_United_Kingdom",
+			"name": "The United Kingdom",
+			"flag": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-250.png"
+		},
+		{
+			"tag": "Guinea-Bissau",
+			"name": "Guinea-Bissau",
+			"flag": "https://cdn.countryflags.com/thumbs/guinea-bissau/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/guinea-bissau/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/guinea-bissau/flag-round-250.png"
+		},
+		{
+			"tag": "Qatar",
+			"name": "Qatar",
+			"flag": "https://cdn.countryflags.com/thumbs/qatar/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/qatar/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/qatar/flag-round-250.png"
+		},
+		{
+			"tag": "Brunei",
+			"name": "Brunei",
+			"flag": "https://cdn.countryflags.com/thumbs/brunei/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/brunei/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/brunei/flag-round-250.png"
+		},
+		{
+			"tag": "Ghana",
+			"name": "Ghana",
+			"flag": "https://cdn.countryflags.com/thumbs/ghana/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/ghana/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/ghana/flag-round-250.png"
+		},
+		{
+			"tag": "Monaco",
+			"name": "Monaco",
+			"flag": "https://cdn.countryflags.com/thumbs/monaco/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/monaco/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/monaco/flag-round-250.png"
+		},
+		{
+			"tag": "Kenya",
+			"name": "Kenya",
+			"flag": "https://cdn.countryflags.com/thumbs/kenya/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/kenya/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/kenya/flag-round-250.png"
+		},
+		{
+			"tag": "São_Tomé_and_Príncipe",
+			"name": "São Tomé and Príncipe",
+			"flag": "https://cdn.countryflags.com/thumbs/sao-tome-and-principe/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/sao-tome-and-principe/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/sao-tome-and-principe/flag-round-250.png"
+		},
+		{
+			"tag": "Israel",
+			"name": "Israel",
+			"flag": "https://cdn.countryflags.com/thumbs/israel/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/israel/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/israel/flag-round-250.png"
+		},
+		{
+			"tag": "Guatemala",
+			"name": "Guatemala",
+			"flag": "https://cdn.countryflags.com/thumbs/guatemala/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/guatemala/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/guatemala/flag-round-250.png"
+		},
+		{
+			"tag": "Slovakia",
+			"name": "Slovakia",
+			"flag": "https://cdn.countryflags.com/thumbs/slovakia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/slovakia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/slovakia/flag-round-250.png"
+		},
+		{
+			"tag": "Greece",
+			"name": "Greece",
+			"flag": "https://cdn.countryflags.com/thumbs/greece/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/greece/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/greece/flag-round-250.png"
+		},
+		{
+			"tag": "Kiribati",
+			"name": "Kiribati",
+			"flag": "https://cdn.countryflags.com/thumbs/kiribati/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/kiribati/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/kiribati/flag-round-250.png"
+		},
+		{
+			"tag": "Norway",
+			"name": "Norway",
+			"flag": "https://cdn.countryflags.com/thumbs/norway/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/norway/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/norway/flag-round-250.png"
+		},
+		{
+			"tag": "Liechtenstein",
+			"name": "Liechtenstein",
+			"flag": "https://cdn.countryflags.com/thumbs/liechtenstein/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/liechtenstein/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/liechtenstein/flag-round-250.png"
+		},
+		{
+			"tag": "Cuba",
+			"name": "Cuba",
+			"flag": "https://cdn.countryflags.com/thumbs/cuba/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/cuba/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/cuba/flag-round-250.png"
+		},
+		{
+			"tag": "Sweden",
+			"name": "Sweden",
+			"flag": "https://cdn.countryflags.com/thumbs/sweden/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/sweden/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/sweden/flag-round-250.png"
+		},
+		{
+			"tag": "Mozambique",
+			"name": "Mozambique",
+			"flag": "https://cdn.countryflags.com/thumbs/mozambique/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/mozambique/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/mozambique/flag-round-250.png"
+		},
+		{
+			"tag": "Costa_Rica",
+			"name": "Costa Rica",
+			"flag": "https://cdn.countryflags.com/thumbs/costa-rica/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/costa-rica/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/costa-rica/flag-round-250.png"
+		},
+		{
+			"tag": "Democratic_Republic_of_The_Congo",
+			"name": "Democratic Republic of The Congo",
+			"flag": "https://cdn.countryflags.com/thumbs/congo-democratic-republic-of-the/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/congo-democratic-republic-of-the/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/congo-democratic-republic-of-the/flag-round-250.png"
+		},
+		{
+			"tag": "Argentina",
+			"name": "Argentina",
+			"flag": "https://cdn.countryflags.com/thumbs/argentina/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/argentina/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png"
+		},
+		{
+			"tag": "Thailand",
+			"name": "Thailand",
+			"flag": "https://cdn.countryflags.com/thumbs/thailand/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/thailand/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/thailand/flag-round-250.png"
+		},
+		{
+			"tag": "Pakistan",
+			"name": "Pakistan",
+			"flag": "https://cdn.countryflags.com/thumbs/pakistan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/pakistan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/pakistan/flag-round-250.png"
+		},
+		{
+			"tag": "Malaysia",
+			"name": "Malaysia",
+			"flag": "https://cdn.countryflags.com/thumbs/malaysia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/malaysia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/malaysia/flag-round-250.png"
+		},
+		{
+			"tag": "Taiwan",
+			"name": "Taiwan",
+			"flag": "https://cdn.countryflags.com/thumbs/taiwan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/taiwan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/taiwan/flag-round-250.png"
+		},
+		{
+			"tag": "Ethiopia",
+			"name": "Ethiopia",
+			"flag": "https://cdn.countryflags.com/thumbs/ethiopia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/ethiopia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/ethiopia/flag-round-250.png"
+		},
+		{
+			"tag": "Myanmar",
+			"name": "Myanmar",
+			"flag": "https://cdn.countryflags.com/thumbs/myanmar/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/myanmar/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/myanmar/flag-round-250.png"
+		},
+		{
+			"tag": "Kyrgyzstan",
+			"name": "Kyrgyzstan",
+			"flag": "https://cdn.countryflags.com/thumbs/kyrgyzstan/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/kyrgyzstan/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/kyrgyzstan/flag-round-250.png"
+		},
+		{
+			"tag": "Micronesia",
+			"name": "Micronesia",
+			"flag": "https://cdn.countryflags.com/thumbs/micronesia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/micronesia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/micronesia/flag-round-250.png"
+		},
+		{
+			"tag": "Peru",
+			"name": "Peru",
+			"flag": "https://cdn.countryflags.com/thumbs/peru/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/peru/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/peru/flag-round-250.png"
+		},
+		{
+			"tag": "Benin",
+			"name": "Benin",
+			"flag": "https://cdn.countryflags.com/thumbs/benin/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/benin/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/benin/flag-round-250.png"
+		},
+		{
+			"tag": "Bahrain",
+			"name": "Bahrain",
+			"flag": "https://cdn.countryflags.com/thumbs/bahrain/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bahrain/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bahrain/flag-round-250.png"
+		},
+		{
+			"tag": "Andorra",
+			"name": "Andorra",
+			"flag": "https://cdn.countryflags.com/thumbs/andorra/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/andorra/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/andorra/flag-round-250.png"
+		},
+		{
+			"tag": "Latvia",
+			"name": "Latvia",
+			"flag": "https://cdn.countryflags.com/thumbs/latvia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/latvia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/latvia/flag-round-250.png"
+		},
+		{
+			"tag": "Indonesia",
+			"name": "Indonesia",
+			"flag": "https://cdn.countryflags.com/thumbs/indonesia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/indonesia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/indonesia/flag-round-250.png"
+		},
+		{
+			"tag": "Haiti",
+			"name": "Haiti",
+			"flag": "https://cdn.countryflags.com/thumbs/haiti/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/haiti/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/haiti/flag-round-250.png"
+		},
+		{
+			"tag": "Germany",
+			"name": "Germany",
+			"flag": "https://cdn.countryflags.com/thumbs/germany/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/germany/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/germany/flag-round-250.png"
+		},
+		{
+			"tag": "Côte_d'_Ivoire",
+			"name": "Côte d' Ivoire",
+			"flag": "https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-round-250.png"
+		},
+		{
+			"tag": "Republic_of_The_Congo",
+			"name": "Republic of The Congo",
+			"flag": "https://cdn.countryflags.com/thumbs/congo-republic-of-the/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/congo-republic-of-the/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/congo-republic-of-the/flag-round-250.png"
+		},
+		{
+			"tag": "The_Central-African_Republic",
+			"name": "The Central-African Republic",
+			"flag": "https://cdn.countryflags.com/thumbs/central-african-republic/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/central-african-republic/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/central-african-republic/flag-round-250.png"
+		},
+		{
+			"tag": "Sierra_Leone",
+			"name": "Sierra Leone",
+			"flag": "https://cdn.countryflags.com/thumbs/sierra-leone/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/sierra-leone/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/sierra-leone/flag-round-250.png"
+		},
+		{
+			"tag": "Cambodia",
+			"name": "Cambodia",
+			"flag": "https://cdn.countryflags.com/thumbs/cambodia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/cambodia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/cambodia/flag-round-250.png"
+		},
+		{
+			"tag": "Fiji",
+			"name": "Fiji",
+			"flag": "https://cdn.countryflags.com/thumbs/fiji/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/fiji/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/fiji/flag-round-250.png"
+		},
+		{
+			"tag": "Swaziland",
+			"name": "Swaziland",
+			"flag": "https://cdn.countryflags.com/thumbs/swaziland/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/swaziland/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/swaziland/flag-round-250.png"
+		},
+		{
+			"tag": "France",
+			"name": "France",
+			"flag": "https://cdn.countryflags.com/thumbs/france/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/france/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/france/flag-round-250.png"
+		},
+		{
+			"tag": "Iceland",
+			"name": "Iceland",
+			"flag": "https://cdn.countryflags.com/thumbs/iceland/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/iceland/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/iceland/flag-round-250.png"
+		},
+		{
+			"tag": "Guinea",
+			"name": "Guinea",
+			"flag": "https://cdn.countryflags.com/thumbs/guinea/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/guinea/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/guinea/flag-round-250.png"
+		},
+		{
+			"tag": "Austria",
+			"name": "Austria",
+			"flag": "https://cdn.countryflags.com/thumbs/austria/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/austria/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/austria/flag-round-250.png"
+		},
+		{
+			"tag": "Nauru",
+			"name": "Nauru",
+			"flag": "https://cdn.countryflags.com/thumbs/nauru/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/nauru/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/nauru/flag-round-250.png"
+		},
+		{
+			"tag": "Dominica",
+			"name": "Dominica",
+			"flag": "https://cdn.countryflags.com/thumbs/dominica/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/dominica/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/dominica/flag-round-250.png"
+		},
+		{
+			"tag": "Nigeria",
+			"name": "Nigeria",
+			"flag": "https://cdn.countryflags.com/thumbs/nigeria/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/nigeria/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/nigeria/flag-round-250.png"
+		},
+		{
+			"tag": "Samoa",
+			"name": "Samoa",
+			"flag": "https://cdn.countryflags.com/thumbs/samoa/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/samoa/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/samoa/flag-round-250.png"
+		},
+		{
+			"tag": "Antigua_and_Barbuda",
+			"name": "Antigua and Barbuda",
+			"flag": "https://cdn.countryflags.com/thumbs/antigua-and-barbuda/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/antigua-and-barbuda/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/antigua-and-barbuda/flag-round-250.png"
+		},
+		{
+			"tag": "Bulgaria",
+			"name": "Bulgaria",
+			"flag": "https://cdn.countryflags.com/thumbs/bulgaria/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/bulgaria/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/bulgaria/flag-round-250.png"
+		},
+		{
+			"tag": "Nepal",
+			"name": "Nepal",
+			"flag": "https://cdn.countryflags.com/thumbs/nepal/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/nepal/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/nepal/flag-round-250.png"
+		},
+		{
+			"tag": "Somalia",
+			"name": "Somalia",
+			"flag": "https://cdn.countryflags.com/thumbs/somalia/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/somalia/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/somalia/flag-round-250.png"
+		},
+		{
+			"tag": "Ukraine",
+			"name": "Ukraine",
+			"flag": "https://cdn.countryflags.com/thumbs/ukraine/flag-400.png",
+			"flag_square": "https://cdn.countryflags.com/thumbs/ukraine/flag-square-250.png",
+			"flag_round": "https://cdn.countryflags.com/thumbs/ukraine/flag-round-250.png"
+		}
+	]
+}
