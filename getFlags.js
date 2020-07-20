@@ -9,23 +9,38 @@ const getFlags = async () => {
     let flags = [
       {
         url: data.countries[country].flag,
-        filename: `${data.countries[country].tag.toLowerCase()}_flag.png`
+        filename: `${data.countries[country].tag.toLowerCase()}_flag.png`,
+        filetag: 'flag'
       },
       {
         url: data.countries[country].flag_square,
-        filename: `${data.countries[country].tag.toLowerCase()}_flag_square.png`
+        filename: `${data.countries[country].tag.toLowerCase()}_flag_square.png`,
+        filetag: 'flag_square'
       },
       {
         url: data.countries[country].flag_round,
-        filename: `${data.countries[country].tag.toLowerCase()}_flag_round.png`
+        filename: `${data.countries[country].tag.toLowerCase()}_flag_round.png`,
+        filetag: 'flag_round'
       }
     ]
     for (flag in flags) {
-      console.log(flags[flag]);
-      await (async () => {
-        fs.writeFileSync(`./img/flags/${flags[flag].filename}`, await download(flags[flag].url));
-        data.written = true
-      })();
+      // console.log(flags[flag].filetag);
+      if (flags[flag].filetag == 'flag') {
+        await (async () => {
+          fs.writeFileSync(`./img/flags/${flags[flag].filename}`, await download(flags[flag].url));
+          data.written = true
+        })();
+      } else if (flags[flag].filetag == 'flag_round') {
+        await (async () => {
+          fs.writeFileSync(`./img/flags_round/${flags[flag].filename}`, await download(flags[flag].url));
+          data.written = true
+        })();
+      } else if (flags[flag].filetag == 'flag_square') {
+        await (async () => {
+          fs.writeFileSync(`./img/flags_square/${flags[flag].filename}`, await download(flags[flag].url));
+          data.written = true
+        })();
+      }
     }
   }
 
